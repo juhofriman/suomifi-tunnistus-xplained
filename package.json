@@ -1,0 +1,8 @@
+{
+  "name": "suomifi-tunnistautuminen-xplained",
+  "version": "1.0.0",
+  "description": "Suomi.fi tunnistautumisen yhteisöohjeet.",
+  "main": "index.js",
+  "author": "Juho Friman <juho.t.friman@gmail.com>",
+  "license": "MIT"
+}
