@@ -4,5 +4,11 @@
   "description": "Suomi.fi tunnistautumisen yhteisöohjeet.",
   "main": "index.js",
   "author": "Juho Friman <juho.t.friman@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "docsify": "docsify"
+  },
+  "devDependencies": {
+    "docsify-cli": "^4.4.1"
+  }
 }
