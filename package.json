@@ -6,7 +6,8 @@
   "author": "Juho Friman <juho.t.friman@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "docsify": "docsify"
+    "docsify": "docsify",
+    "serve": "docsify serve docs"
   },
   "devDependencies": {
     "docsify-cli": "^4.4.1"
