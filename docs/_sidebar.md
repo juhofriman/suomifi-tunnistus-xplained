@@ -2,7 +2,7 @@
 - Taustat
 
   - [SAML Selitettynä](saml.md)
-  - [Metadatan välittäminen](metadata.md)
+  - [SP Metadata](sp_metadata.md)
   - [Metadatan määrittely](metadata_maarittely.md)
 
 - Toteutus
